@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dc78fee012982f4f",
+        "id": "da0129b4c372dd52",
         "type": "tabs",
-        "dimension": 57.58064516129032,
         "children": [
           {
-            "id": "5261aedcf418d4b0",
+            "id": "74dbbbe73ec73b39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/游戏开发/UE学习/Task.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "f330ce6a97ffbc6b"
-          }
-        ]
-      },
-      {
-        "id": "81b7c500c581369e",
-        "type": "tabs",
-        "dimension": 42.41935483870968,
-        "children": [
-          {
-            "id": "73fc767f4cb77e7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/游戏开发/UE学习/Task.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "f330ce6a97ffbc6b"
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -91,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e0e8281543be9acd",
@@ -108,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/游戏开发/UE学习/Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/游戏开发/UE学习/Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/游戏开发/UE学习/Task.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,22 +139,29 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "73fc767f4cb77e7e",
+  "active": "74dbbbe73ec73b39",
   "lastOpenFiles": [
-    "_posts/游戏开发/UE学习/游戏框架.md",
+    "_posts/技术学习/3D数学基础/3D坐标系.md",
+    "media/3D坐标系/IMG-3D坐标系-20231122135306121.png",
+    "media/3D坐标系/IMG-3D坐标系-20231122135200191.png",
+    "media/3D坐标系/IMG-3D坐标系-20231122135135097.png",
+    "media/3D坐标系/IMG-3D坐标系-20231121211804729.png",
+    "media/3D坐标系",
+    "media/3D坐标系/IMG-3D坐标系-20231121211039225.png",
+    "_posts/技术学习/3D数学基础/一些有用的坐标系.md",
+    "media/一些有用的坐标系/IMG-一些有用的坐标系-20231121204151244.png",
+    "media/一些有用的坐标系/IMG-一些有用的坐标系-20231121204057240.png",
+    "media/一些有用的坐标系/IMG-一些有用的坐标系-20231121203100578.png",
+    "media/一些有用的坐标系",
+    "media/一些有用的坐标系/IMG-一些有用的坐标系-20231121202800339.png",
     "_posts/游戏开发/UE学习/Task.md",
+    "_posts/技术学习/3D数学基础",
+    "_posts/游戏开发/UE学习/游戏框架.md",
+    "_posts/技术学习/算法/学习中的算法.md",
+    "_posts/公司经历以及问题记录/成都量子矩阵/开发Bug/IE11 下的各类兼容问题以及 Hack 方案.md",
     "media/_posts/游戏开发/UE学习/游戏框架/IMG-游戏框架-20231112091030357.png",
-    "Pasted image 20231112090912.png",
-    "media/游戏框架/IMG-游戏框架-20231112093610859.png",
-    "media/游戏框架/IMG-游戏框架-20231112093603930.png",
-    "media/游戏框架/IMG-游戏框架-20231112093344505.png",
-    "media/游戏框架/IMG-游戏框架-20231112092705191.png",
-    "media/游戏框架/IMG-游戏框架-20231112092551244.png",
-    "media/游戏框架/IMG-游戏框架-20231112092149290.png",
     "media/游戏框架",
-    "media/游戏框架/IMG-游戏框架-20231112092103303.png",
     "_posts/公司经历以及问题记录/成都量子矩阵/产品思考/可视化案例效果总结.md",
-    "media/可视化案例效果总结/6e65b68c01ef1f840ef251eb537cc866_MD5.gif",
     "_posts/技术学习/数据库系统概论/SQL 语法规则.md",
     "_posts/技术学习/数据库系统概论/SQL 函数.md",
     "_posts/技术学习/数据库系统概论/专有名词库.md",
@@ -209,14 +185,6 @@
     "media/UE学习",
     "media/游戏框架-20231112.png.md",
     "_posts/游戏开发/UE学习",
-    "links/index.md",
-    "_posts/技术学习/算法/实践中的算法.md",
-    "_posts/技术学习/算法/学习中的算法.md",
-    "Win Blog/resources/app.asar.unpacked/node_modules/get-fonts/binding.node",
-    "Win Blog/resources/app.asar.unpacked/node_modules/vibrancy-win/binding.node",
-    "Win Blog/resources/app.asar.unpacked/node_modules/btime/binding.node",
-    "_posts/前端/微信小程序开发/微信小程序开发.md",
-    "Extra/templater/plantuml样式模板.md",
-    "about/index.md"
+    "links/index.md"
   ]
 }
